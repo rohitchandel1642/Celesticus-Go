@@ -21,6 +21,7 @@ Astronomical quiz with the help of clues given.
 ## Necessary Modification For Playing Anywhere
 * Select Map object from hierarchy => Point of Interest drop down from inspector=>POI CLUE => Set find by to Mapbox Category.
 * Select Map object from hierarchy => Point of Interest drop down from inspector=>POI WIN => Set find by to Mapbox Category.
+* Change UpdateHops.cs C# script in assets/scripts folder to add relevant clues about locality.
 
 ## Built with
 * Mapbox SDK - Mapbox is the location data platform for mobile and web applications. Mapbox provide building blocks to add location features like maps, search, and navigation into any experience you create.
